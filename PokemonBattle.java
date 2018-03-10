@@ -1,7 +1,3 @@
-//Aniket Mishra 
-//Pd.1 
-//Chapter 3 Progamming Project
-//10/19/17
 
 
 
